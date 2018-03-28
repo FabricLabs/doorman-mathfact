@@ -1,0 +1,14 @@
+{
+	"name": "doorman-mathfact",
+	"description": "Gives a Random Math Fact",
+	"version": "0.1.0",
+	"license": "Apache-2.0",
+	"readme": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FabricLabs/doorman-mathfact.git"
+	},
+	"author": "Nate Richardson <hello@naterichardson.com> (https://naterichardson.com)",
+	"main": "mathfact.js",
+	"dependencies": {}
+}
